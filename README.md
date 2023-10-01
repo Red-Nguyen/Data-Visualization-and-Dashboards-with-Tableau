@@ -23,10 +23,15 @@ I enhanced the visualizations by adding labels, tooltips, and employing various 
 
 For Option 2, I chose a dataset containing detailed records of death causes, numbers, and geographic locations over the years. 
 My questions: 
+
 	1. How does the prevalence of each disease vary across each selected country, and what patterns or correlations can be observed in the data?
+	
 	2. Top n countries with the highest number of deaths.
+	
 	3. Examine the yearly trends in deaths for each disease and specifically focus on the top n deadliest diseases. Identify any notable patterns or anomalies, and analyze the influence of these top diseases on the overall mortality rate.
+	
 	4. Visualize the specific causes of death and the corresponding total number of deaths for each cause in a selected year, and forecast the expected number of deaths for these causes in the upcoming five years.
+	
 	5.  Identify the outlier diseases. Is there any correlation between these outliers and specific geographic areas? Determine which countries are most impacted by these diseases, measured as a percentage.
 
 I created a series of visualizations to answer this question, including bar charts showing the top N countries with the highest deaths and cluster analyses visualizing the grouping of countries based on similar death cause patterns. These visualizations helped identify trends, correlations, and patterns in the data, offering valuable insights for targeted health interventions.
